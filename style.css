@@ -7,7 +7,7 @@
 
 body{
     font-family: 'Cormorant Garamond', serif;
-    background: linear-gradient(45deg, #fff1eb, #ace0f9) ;
+    background: url("./nebo_zakat_gradient_170507_1440x2560.jpg") ;
 
 }
 
@@ -25,17 +25,38 @@ body{
 h2{
   font-weight: 600;
   font-size: 26px;
-    margin-bottom: 15px;
+    margin: 60px 60px 15px 60px;
+    color: white;
 }
 .desc-random{
     font-weight: 500;
     font-size: 20px;
-    margin-bottom: 15px;
+    margin: 15px 60px 60px 85px;
+    color: white;
 }
 .btn{
-    background-color: #40c7ee;
-    border: 1px solid #40c7ee;
-    color: white;
-    margin-bottom: 15px;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    color: #46b2e1;
+    margin: 15px 0 15px 0;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 16px;
+    position: absolute;
+    left: 635px;
+    bottom: 434px;
+
+}
+
+.box{
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-top: 50px;
+
+}
+.input{
+    margin: 15px 0 15px 70px;
+    padding: 5px;
+    position: relative;
+
 
 }
